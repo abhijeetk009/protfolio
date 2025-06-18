@@ -3,7 +3,8 @@ This project implements a CLI agent that generates step-by-step command-line pla
 
 ## Requirements
 - Python 3.8+
-- pip
+- Hugging face Access Token for Pre-trained Model access(LLama in this case).
+- Google Colab Pro for Terminal Access to Run CLI Agent.
 
 It is suggested that you use this Google colab Notebook to execute the project and get results.
 The setup is fairly simple as you would only need to install some dependancies whether not already done.
